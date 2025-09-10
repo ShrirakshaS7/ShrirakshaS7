@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Shriraksha
+I am a Computer Science Engineering Student at P.A. College of Engineering, Mangaluru (2022-2026), currently holding a CGPA of 9.1.  
+I am passionate about technology, problem solving, and building practical solutions that can make a real-world impact.
 
-<!--
-**ShrirakshaS7/ShrirakshaS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Expertise  
+- Data Analytics  
+- Web Development (Frontend & Backend)    
+- Machine Learning & AI  
+- IoT-based Applications  
 
-Here are some ideas to get you started:
+Technologies & Tools  
+- Programming Languages:Python,C.
+- Frameworks & Libraries:** Flask, React, TensorFlow, Pandas, NumPy  
+- Databases:MySQL, MongoDB  
+- Tools & Platforms:Git, VS Code, Jupyter Notebook  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects I Worked On
+1.Blockchain-based Voting System: Secure and transparent voting mechanism using blockchain.  
+2.Automatic Waste Segregation System:Smart system using sensors and ML to separate waste automatically.  
+3.Brain Tumor Detection using Multimodal Learning:Detects tumors from MRI images and clinical data using ML. 
+
+Currently Learning 
+- Cloud Services (AWS, GCP)  
+- Advanced Machine Learning techniques  
+- Cybersecurity Fundamentals  
+
+Contact Me  
+- LinkedIn:
+- Email:shrirakshas8@gmail.com  
