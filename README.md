@@ -17,7 +17,7 @@ Technologies & Tools
 Projects I Worked On
 1.Blockchain-based Voting System: Secure and transparent voting mechanism using blockchain.  
 2.Automatic Waste Segregation System:Smart system using sensors and ML to separate waste automatically.  
-3.Brain Tumor Detection using Multimodal Learning:Detects tumors from MRI images and clinical data using ML. 
+3.AI based Brain Tumor Detection and Classification:Using Swin Transformer model it Detects tumors from MRI images. 
 
 Currently Learning 
 - Cloud Services (AWS, GCP)  
